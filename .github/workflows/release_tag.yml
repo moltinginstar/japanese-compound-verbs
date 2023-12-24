@@ -1,0 +1,31 @@
+---
+name: "Release Tag"
+
+on:
+  push:
+    tags:
+      - "v[0-9]+.[0-9]+.[0-9]+"
+
+jobs:
+  release:
+    name: "Build deck and create release"
+    runs-on: "ubuntu-latest"
+    container: pfeiffermax/python-poetry:1.8.0-poetry1.7.1-python3.10.13-slim-bookworm
+
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: "Build"
+        run: |
+          poetry install
+          poetry run python japanese_compound_verbs/main.py
+
+      - name: "Release"
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          files: |
+            build/Japanese Compound Verbs.apkg

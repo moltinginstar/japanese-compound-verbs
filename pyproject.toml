@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "japanese-compound-verbs"
+version = "1.0.0"
+description = "Buildscript for the Japanese Compound Verbs deck."
+authors = ["Sam D <samvelxdavtyan@gmail.com>"]
+readme = "README.md"
+license = "GPL-3.0-or-later"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+genanki = "^0.13.1"
+pandas = "^2.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

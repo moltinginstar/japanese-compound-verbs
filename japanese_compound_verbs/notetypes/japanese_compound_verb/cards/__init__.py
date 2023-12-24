@@ -1,0 +1,1 @@
+from .japanese_to_english import TEMPLATE as JAPANESE_TO_ENGLISH_TEMPLATE

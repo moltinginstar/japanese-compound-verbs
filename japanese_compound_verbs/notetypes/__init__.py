@@ -1,0 +1,2 @@
+from .japanese_compound_verb.definition import MODEL as JAPANESE_COMPOUND_VERB_MODEL
+from .japanese_compound_verb.utils import make_note as make_japanese_compound_verb_note
