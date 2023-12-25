@@ -1,4 +1,4 @@
-FRONT_TEMPLATE = r"""\
+FRONT_TEMPLATE = """\
 <p class="verb"><ruby>{{Verb}}<rt>{{Verb (Hiragana)}}</rt></ruby> ({{Verb (Romaji)}})</p>
 
 <p class="stems">= <ruby>{{V1}}<rt>{{V1 (Hiragana)}}</rt></ruby> + <ruby>{{V2}}<rt>{{V2 (Hiragana)}}</rt></ruby></p>
@@ -8,7 +8,7 @@ FRONT_TEMPLATE = r"""\
 <div class="meaning">{{Meaning}}</div>
 """
 
-BACK_TEMPLATE = r"""\
+BACK_TEMPLATE = """\
 {{FrontSide}}
 
 <hr />
