@@ -1,6 +1,7 @@
 # The Japanese Compound Verbs deck
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 This repo contains the data and code to build the [Japanese Compound Verbs](https://ankiweb.net/shared/info/921752699) deck, a comprehensive list of over 2700 compound verbs in Japanese, complete with parallel definitions, usage notes, and example sentences in Japanese, English, and Korean.
 
