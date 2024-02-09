@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "japanese-compound-verbs"
-version = "1.0.6"
+version = "1.0.7"
 description = "Buildscript and files for the Japanese Compound Verbs deck."
 authors = ["Sam D <samvelxdavtyan@gmail.com>"]
 readme = "README.md"
