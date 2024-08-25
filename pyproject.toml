@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "japanese-compound-verbs"
-version = "1.0.9"
+version = "1.0.10"
 description = "Buildscript and files for the Japanese Compound Verbs deck."
-authors = ["Sam D <samvelxdavtyan@gmail.com>"]
+authors = ["Sam <samvelxdavtyan@gmail.com>"]
 readme = "README.md"
 license = "GPL-3.0-or-later"
 
