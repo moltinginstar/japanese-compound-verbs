@@ -7,7 +7,7 @@ This repo contains the data and code to build the [Japanese Compound Verbs](http
 
 ## Contributing
 
-If you find any mistakes that may have slipped through, or if you have any suggestinos for improvements (such as new note types), you’re more than welcome to create an issue or—better yet—a pull request. If you choose to contribute, these will come in handy:
+If you find any mistakes that may have slipped through, or if you have any suggestions for improvements (such as new note types), you’re more than welcome to create an issue or—better yet—a pull request. If you choose to contribute, these will come in handy:
 
 - https://docs.ankiweb.net/getting-started.html
 - https://github.com/kerrickstaley/genanki
