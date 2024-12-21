@@ -9,12 +9,12 @@ This repo contains the data and code to build the [Japanese Compound Verbs](http
 
 If you find any mistakes that may have slipped through, or if you have any suggestions for improvements (such as new note types), you’re more than welcome to create an issue or—better yet—a pull request. If you choose to contribute, these will come in handy:
 
-- https://docs.ankiweb.net/getting-started.html
-- https://github.com/kerrickstaley/genanki
+- <https://docs.ankiweb.net/getting-started.html>
+- <https://github.com/kerrickstaley/genanki>
 
 ## Repository structure
 
-```
+```text
 .
 ├── build/
 │   └── [Japanese Compound Verbs.apkg] the final packaged deck
@@ -38,4 +38,4 @@ The contents of this repository (including the data) are licensed under the [GNU
 
 ## Credit
 
-National Institute for Japanese Language and Linguistics. (2015) *The Compound Verb Lexicon* [Original Data]. (https://vvlexicon.ninjal.ac.jp/)
+National Institute for Japanese Language and Linguistics. (2015) *The Compound Verb Lexicon* [Original Data]. (<https://vvlexicon.ninjal.ac.jp/>)
