@@ -1,5 +1,4 @@
----
-name: "Release Tag"
+name: Release
 
 on:
   push:

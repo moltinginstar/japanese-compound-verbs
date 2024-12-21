@@ -2,7 +2,7 @@
 name = "japanese-compound-verbs"
 version = "1.0.10"
 description = "Buildscript and files for the Japanese Compound Verbs deck."
-authors = ["Sam <samvelxdavtyan@gmail.com>"]
+authors = ["Sam <moltinginstar@gmail.com>"]
 readme = "README.md"
 license = "GPL-3.0-or-later"
 
